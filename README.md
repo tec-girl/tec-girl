@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/hacker-girl.webp" alt="Tec Girl — hacker web designer" width="560"/>
+<img src="assets/hacker-girl.webp" alt="Tec Girl — hacker web designer" width="100%"/>
 </div>
 
 # Tec Girl
