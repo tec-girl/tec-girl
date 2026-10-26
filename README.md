@@ -5,7 +5,7 @@
 # Tec Girl
 
 - Hi there 👋 I'm **Tec Girl** — hacker web designer, building cyberpunk pages & digital experiences 💻✨
-- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url]
+- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url] [![DePasoMaya][depaso-shield]][depaso-url]
 - 😄 Pronouns: she / her
 - 📫 How to reach me: through my [website](https://tec-girl.github.io/) — commissions open 📩
 
@@ -77,6 +77,7 @@ status: [ ACCESS GRANTED ]
 * [Jaqui Salinas — Seguros](https://tec-girl.github.io/jaquisalinasseguros.github.io/) — executive insurance page in deep teal & gold: auto, retirement, medical, life & education plans
 * [Jaqui Salinas — Terapeuta](https://tec-girl.github.io/jaquisalinasterapeuta.github.io/) — psychology & personal development: individual, couples & family therapy
 * [Chef Josafat — GipsyX](https://gipsyx-mx.github.io/) — signature cuisine: tasting menus, private events, consulting & culinary teaching
+* [DePasoMaya — Listo para llevar](https://depasomaya.github.io/) — healthy ready-to-go meal plans by specialists & chefs, with flexible memberships
 
 ## ⚡ Fun fact: I hack layouts the same way I walk runways — precision first, drama always.
 
@@ -95,6 +96,7 @@ tec-girl@web:~$ ./presentacion.sh
 [>] ................ tec-girl.github.io/jaquisalinasseguros.github.io
 [>] ................ tec-girl.github.io/jaquisalinasterapeuta.github.io
 [>] ................ gipsyx-mx.github.io
+[>] ................ depasomaya.github.io
 [>] estado ......... ACCESS GRANTED ✅
 
 tec-girl@web:~$ _
@@ -112,6 +114,8 @@ tec-girl@web:~$ _
 [terapeuta-shield]: https://img.shields.io/badge/-Jaqui_Terapeuta-black.svg?style=for-the-badge&logo=githubpages&colorB=7a9e7e
 [gipsyx-url]: https://gipsyx-mx.github.io/
 [gipsyx-shield]: https://img.shields.io/badge/-Chef_GipsyX-black.svg?style=for-the-badge&logo=githubpages&colorB=e2574c
+[depaso-url]: https://depasomaya.github.io/
+[depaso-shield]: https://img.shields.io/badge/-DePasoMaya-black.svg?style=for-the-badge&logo=githubpages&colorB=4caf7d
 
 <!--
 **tec-girl/tec-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
