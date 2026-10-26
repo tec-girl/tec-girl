@@ -5,7 +5,7 @@
 # Tec Girl
 
 - Hi there 👋 I'm **Tec Girl** — hacker web designer, building cyberpunk pages & digital experiences 💻✨
-- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url]
+- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url]
 - 😄 Pronouns: she / her
 - 📫 How to reach me: through my [website](https://tec-girl.github.io/) — commissions open 📩
 
@@ -73,7 +73,8 @@ status: [ ACCESS GRANTED ]
 
 * [tec-girl.github.io](https://tec-girl.github.io/) — my website: hacker web designer, terminal vibes & neon
 * [Keysi Kunz — Fashion](https://tec-girl.github.io/keysi.github.io/) — fashion, runway & my agency Keysi Models, styled like a fashion show
-* [Ximena Grace — Beauty](https://tec-girl.github.io/ximena_grace.github.io/) — luxury beauty page in black, gold & silver for Ximena Lashes: lashes, pro makeup, hair & color
+* [Ximena Grace — Beauty](https://tec-girl.github.io/ximena_grace.github.io/) — luxury beauty page in black, gold & silver for Ximena Lashes: lashes, pro makeup, hair & waxing
+* [Jaqui Salinas — Seguros](https://tec-girl.github.io/jaquisalinasseguros.github.io/) — executive insurance page in deep teal & gold: auto, retirement, medical, life & education plans
 
 ## ⚡ Fun fact: I hack layouts the same way I walk runways — precision first, drama always.
 
@@ -89,6 +90,7 @@ tec-girl@web:~$ ./presentacion.sh
 [>] páginas ........ tec-girl.github.io
 [>] ................ tec-girl.github.io/keysi.github.io
 [>] ................ tec-girl.github.io/ximena_grace.github.io
+[>] ................ tec-girl.github.io/jaquisalinasseguros.github.io
 [>] estado ......... ACCESS GRANTED ✅
 
 tec-girl@web:~$ _
@@ -100,6 +102,8 @@ tec-girl@web:~$ _
 [fashion-shield]: https://img.shields.io/badge/-Fashion_Page-black.svg?style=for-the-badge&logo=githubpages&colorB=ff2e88
 [ximena-url]: https://tec-girl.github.io/ximena_grace.github.io/
 [ximena-shield]: https://img.shields.io/badge/-Ximena_Grace-black.svg?style=for-the-badge&logo=githubpages&colorB=caa25e
+[jaqui-url]: https://tec-girl.github.io/jaquisalinasseguros.github.io/
+[jaqui-shield]: https://img.shields.io/badge/-Jaqui_Salinas-black.svg?style=for-the-badge&logo=githubpages&colorB=0c4654
 
 <!--
 **tec-girl/tec-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
