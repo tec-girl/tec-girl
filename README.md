@@ -5,7 +5,7 @@
 # Tec Girl
 
 - Hi there 👋 I'm **Tec Girl** — hacker web designer, building cyberpunk pages & digital experiences 💻✨
-- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url] [![DePasoMaya][depaso-shield]][depaso-url]
+- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url] [![DePasoMaya][depaso-shield]][depaso-url] [![TramitaNet][tramita-shield]][tramita-url]
 - 😄 Pronouns: she / her
 - 📫 How to reach me: through my [website](https://tec-girl.github.io/) — commissions open 📩
 
@@ -78,6 +78,7 @@ status: [ ACCESS GRANTED ]
 * [Jaqui Salinas — Terapeuta](https://tec-girl.github.io/jaquisalinasterapeuta.github.io/) — psychology & personal development: individual, couples & family therapy
 * [Chef Josafat — GipsyX](https://gipsyx-mx.github.io/) — signature cuisine: tasting menus, private events, consulting & culinary teaching
 * [DePasoMaya — Listo para llevar](https://depasomaya.github.io/) — healthy ready-to-go meal plans by specialists & chefs, with flexible memberships
+* [TramitaNet — La P@Pe](https://frankjunker87-arch.github.io/tramitanet-la-pape/) — Mexico's official procedures directory by state & category, verified .gob.mx portals — by Tec-Girl
 
 ## ⚡ Fun fact: I hack layouts the same way I walk runways — precision first, drama always.
 
@@ -97,6 +98,7 @@ tec-girl@web:~$ ./presentacion.sh
 [>] ................ tec-girl.github.io/jaquisalinasterapeuta.github.io
 [>] ................ gipsyx-mx.github.io
 [>] ................ depasomaya.github.io
+[>] ................ frankjunker87-arch.github.io/tramitanet-la-pape
 [>] estado ......... ACCESS GRANTED ✅
 
 tec-girl@web:~$ _
@@ -116,6 +118,8 @@ tec-girl@web:~$ _
 [gipsyx-shield]: https://img.shields.io/badge/-Chef_GipsyX-black.svg?style=for-the-badge&logo=githubpages&colorB=e2574c
 [depaso-url]: https://depasomaya.github.io/
 [depaso-shield]: https://img.shields.io/badge/-DePasoMaya-black.svg?style=for-the-badge&logo=githubpages&colorB=4caf7d
+[tramita-url]: https://frankjunker87-arch.github.io/tramitanet-la-pape/
+[tramita-shield]: https://img.shields.io/badge/-TramitaNet-black.svg?style=for-the-badge&logo=githubpages&colorB=2563eb
 
 <!--
 **tec-girl/tec-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
