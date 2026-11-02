@@ -38,7 +38,7 @@ status: [ ACCESS GRANTED ]
 
 - Tec Girl's GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tec-girl&show_icons=true&bg_color=0a0a14&title_color=00e5ff&icon_color=ff2e88&text_color=c9b8ff&border_color=7b2ff7&show=reviews,prs_merged,prs_merged_percentage)
+![Tec Girl's GitHub Stats](assets/github-stats.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tec-girl&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tec-girl&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tec-girl&theme=nord_dark)
