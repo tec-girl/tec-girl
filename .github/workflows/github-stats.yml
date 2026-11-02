@@ -43,13 +43,13 @@ jobs:
             echo "Sin cambios en la tarjeta."
           else
             git commit -F - <<'EOF'
-            Stats propios: actualizar la tarjeta de GitHub Stats
+          Stats propios: actualizar la tarjeta de GitHub Stats
 
-            Co-authored-by: psehgaft <psehgaft@users.noreply.github.com>
-            Co-authored-by: san985tos <san985tos@users.noreply.github.com>
-            Co-authored-by: frankjunker87-arch <frankjunker87-arch@users.noreply.github.com>
-            Co-authored-by: tec-girl <keysi-kunz@users.noreply.github.com>
-            Co-authored-by: keysikunz <keysikunz@users.noreply.github.com>
-            EOF
+          Co-authored-by: psehgaft <psehgaft@users.noreply.github.com>
+          Co-authored-by: san985tos <san985tos@users.noreply.github.com>
+          Co-authored-by: frankjunker87-arch <frankjunker87-arch@users.noreply.github.com>
+          Co-authored-by: tec-girl <keysi-kunz@users.noreply.github.com>
+          Co-authored-by: keysikunz <keysikunz@users.noreply.github.com>
+          EOF
             git push
           fi
