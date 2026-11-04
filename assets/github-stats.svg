@@ -12,7 +12,7 @@
 <text x="345" y="66" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="700" fill="#c9b8ff">5</text>
 <g transform="translate(33,87)" stroke="#ff2e88" stroke-width="1.8" fill="none"><circle r="3.4" fill="#0a0a14"/><line x1="-9" y1="0" x2="-3.4" y2="0"/><line x1="3.4" y1="0" x2="9" y2="0"/></g>
 <text x="50" y="91" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#c9b8ff">Total Commits (last year):</text>
-<text x="345" y="91" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="700" fill="#c9b8ff">142</text>
+<text x="345" y="91" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="700" fill="#c9b8ff">150</text>
 <g transform="translate(33,112)" stroke="#ff2e88" stroke-width="1.7" fill="none"><circle cx="-4.5" cy="-5" r="2.4"/><circle cx="-4.5" cy="5" r="2.4"/><circle cx="4.5" cy="5" r="2.4"/><path d="M -4.5 -2.6 V 2.6 M -4.5 5 H 2.1 M 4.5 2.6 V -2 C 4.5 -4.4 3 -5 -4.5 -5" stroke-linecap="round"/></g>
 <text x="50" y="116" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#c9b8ff">Total PRs:</text>
 <text x="345" y="116" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="700" fill="#c9b8ff">1</text>
@@ -26,7 +26,7 @@
 <text x="50" y="191" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#c9b8ff">Followers:</text>
 <text x="345" y="191" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="700" fill="#c9b8ff">0</text>
 <circle cx="415" cy="122" r="42" fill="none" stroke="#26263a" stroke-width="7"/>
-<circle cx="415" cy="122" r="42" fill="none" stroke="url(#ringGrad)" stroke-width="7" stroke-linecap="round" stroke-dasharray="23.2 263.9" transform="rotate(-90 415 122)"/>
+<circle cx="415" cy="122" r="42" fill="none" stroke="url(#ringGrad)" stroke-width="7" stroke-linecap="round" stroke-dasharray="23.9 263.9" transform="rotate(-90 415 122)"/>
 <text x="415" y="131" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="27" font-weight="800" fill="#00e5ff">C</text>
-<text x="415" y="186" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#c9b8ff">Top 91.2%</text>
+<text x="415" y="186" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#c9b8ff">Top 91.0%</text>
 </svg>
