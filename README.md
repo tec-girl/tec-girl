@@ -5,7 +5,7 @@
 # Tec Girl
 
 - Hi there 👋 I'm **Tec Girl** — hacker web designer, building cyberpunk pages & digital experiences 💻✨
-- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url] [![DePasoMaya][depaso-shield]][depaso-url] [![TramitaNet][tramita-shield]][tramita-url] [![Frankjoug][frankjoug-shield]][frankjoug-url] [![SmartTwin][smarttwin-shield]][smarttwin-url]
+- [![Website][website-shield]][website-url] [![Fashion Page][fashion-shield]][fashion-url] [![Ximena Grace][ximena-shield]][ximena-url] [![Jaqui Salinas][jaqui-shield]][jaqui-url] [![Jaqui Terapeuta][terapeuta-shield]][terapeuta-url] [![Chef GipsyX][gipsyx-shield]][gipsyx-url] [![DePasoMaya][depaso-shield]][depaso-url] [![TramitaNet][tramita-shield]][tramita-url] [![Frankjoug][frankjoug-shield]][frankjoug-url] [![SmartTwin][smarttwin-shield]][smarttwin-url] [![insta-followers][insta-shield]][insta-url]
 - 😄 Pronouns: she / her
 - 📫 How to reach me: through my [website](https://tec-girl.github.io/) — commissions open 📩
 
@@ -81,6 +81,7 @@ status: [ ACCESS GRANTED ]
 * [TramitaNet — La P@Pe](https://frankjunker87-arch.github.io/tramitanet-la-pape/) — Mexico's official procedures directory by state & category, verified .gob.mx portals — by Tec-Girl
 * [Frankjoug](https://frankjoug.github.io/frankjoug/) — cyberpunk personal page: philanthropist, security engineer, photographer & content creator — by Tec-Girl
 * [SmartTwin](https://tec-girl.github.io/smarttwin.github.io/) — match platform by mind, intention & plans: IQ & EQ tests, scored battery, encrypted vault, Top 10 & in-app chat (18+, pilot)
+* [insta-followers](https://tec-girl.github.io/insta-followers.github.io/) — compare your Instagram followers & following on your own device, nothing uploaded: who doesn't follow you back & who you don't follow back, with search, copy & download — with a companion extension
 
 ## ⚡ Fun fact: I hack layouts the same way I walk runways — precision first, drama always.
 
@@ -103,6 +104,7 @@ tec-girl@web:~$ ./presentacion.sh
 [>] ................ frankjunker87-arch.github.io/tramitanet-la-pape
 [>] ................ frankjoug.github.io/frankjoug
 [>] ................ tec-girl.github.io/smarttwin.github.io
+[>] ................ tec-girl.github.io/insta-followers.github.io
 [>] estado ......... ACCESS GRANTED ✅
 
 tec-girl@web:~$ _
@@ -128,6 +130,8 @@ tec-girl@web:~$ _
 [frankjoug-shield]: https://img.shields.io/badge/-Frankjoug-black.svg?style=for-the-badge&logo=githubpages&colorB=ff2e88
 [smarttwin-url]: https://tec-girl.github.io/smarttwin.github.io/
 [smarttwin-shield]: https://img.shields.io/badge/-SmartTwin-black.svg?style=for-the-badge&logo=githubpages&colorB=8b5cf6
+[insta-url]: https://tec-girl.github.io/insta-followers.github.io/
+[insta-shield]: https://img.shields.io/badge/-insta--followers-black.svg?style=for-the-badge&logo=githubpages&colorB=00e5ff
 
 <!--
 **tec-girl/tec-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
